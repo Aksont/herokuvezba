@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8bb99089.css",
+    "main.js": "/static/js/main.3cd204b0.js",
+    "static/js/787.70d93d98.chunk.js": "/static/js/787.70d93d98.chunk.js",
+    "static/media/boat.jpg": "/static/media/boat.ea8db2b9ebcb84ec5812.jpg",
+    "static/media/Katarina_Komad.jpg": "/static/media/Katarina_Komad.b65035beb8303f84b0f0.jpg",
+    "static/media/Maldives.jpg": "/static/media/Maldives.4a13c233f0a6f8f5da10.jpg",
+    "static/media/island_logo.png": "/static/media/island_logo.4b5e2989069f5140c769.png",
+    "static/media/email.png": "/static/media/email.20ea8e9c7309cbea79e1.png",
+    "static/media/FishingAdventure3.png": "/static/media/FishingAdventure3.119eb08f3a75e6408f7e.png",
+    "index.html": "/index.html",
+    "main.8bb99089.css.map": "/static/css/main.8bb99089.css.map",
+    "main.3cd204b0.js.map": "/static/js/main.3cd204b0.js.map",
+    "787.70d93d98.chunk.js.map": "/static/js/787.70d93d98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bb99089.css",
+    "static/js/main.3cd204b0.js"
+  ]
+}
